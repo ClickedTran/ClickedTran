@@ -42,6 +42,12 @@ Here are some ideas to get you started:
 </tr>
 <tr>
 <td align="center">
+<p>My Email</p>
+</td>
+<td>
+<p>clickedwp@gmail.com</p>
+<tr>
+<td align="center">
 <p>My Featured Plugin</p>
 </td>
 <td align="center">

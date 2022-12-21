@@ -49,12 +49,28 @@ Here are some ideas to get you started:
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>My Other Plugins</p>
+<th align="center" colspan="2">
+<p>My Github</p>
+<a href="https://github.com/Clickedtran target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="clickedtran" height="30" width="40" /></a>
 </td>
-<td align="center">
-<a href="https://github.com/Clickedtran">
-<span></span>
-</td>
+<tr>
+<th align="center" colspan="2">
+<p><b>My Channels</b></p>
+<a href="https://www.youtube.com/@clickedtran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clickedtran_vn" height="30" width="40" /></a>
+</th>
+</tr>
+<tr>
+<th align="center" colspan="2">
+<p><b>My Facebook</b></p>
+<a href="https://www.facebook.com/clicked.tran.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phattran" height="30" width="40" /></a>
+</th>
+</tr>
+<tr>
+<th align="center" colspan="2">
+<p>Learning</p>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+</th>
+</tr>
 </tr>
 </table>

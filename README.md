@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <tr>
 <th align="center" colspan="2">
 <p>My Github</p>
-<a href="https://github.com/Clickedtran target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="clickedtran" height="30" width="40" /></a>
+<a href="https://github.com/Clickedtran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="clickedtran" height="30" width="40" /></a>
 </td>
 <tr>
 <th align="center" colspan="2">

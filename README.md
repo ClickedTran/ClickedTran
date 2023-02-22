@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <p>My Email</p>
 </td>
 <td>
-<big><i>clickedwp@gmail.com</i></big>
+<a href="mailto:clickedwp@gmail.com"><i>clickedwp@gmail.com</i></a>
 <tr>
 <td align="center">
 <p>My Featured Plugin</p>

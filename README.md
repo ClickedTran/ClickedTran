@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 <table border="1" width="370px" height="auto">
 <tr>
 <th colspan="2"><p>My Information</p></th>
@@ -48,10 +49,14 @@ Here are some ideas to get you started:
 <a href="mailto:clickedwp@gmail.com"><i>clickedwp@gmail.com</i></a>
 <tr>
 <td align="center">
-<p>My Featured Plugin</p>
+<p>My Plugin In Poggit</p>
 </td>
 <td align="center">
-<a href="https://github.com/Clickedtran/WarpGUI-PM4/archive/refs/heads/Master.zip">WarpGUI-PM4</a>
+<a href="https://poggit.pmmp.io/p/WarpGUI">WarpGUI</a>
+  <br>
+  <a href="https://poggit.pmmp.io/p/GiftCode">GiftCode</a>
+  <br>
+  <a href="https://poggit.pmmp.io/p/MineralGUI">MineralGUI</a>
 </td>
 </tr>
 <tr>
@@ -79,4 +84,5 @@ Here are some ideas to get you started:
 </th>
 </tr>
 </tr>
+</div>
 </table>

@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 [![FACEBOOK](https://img.shields.io/badge/Ph%C3%A1t_Tr%E1%BA%A7n-blue?style=plastic&logo=facebook&logoColor=white&label=Facebook&labelColor=blue&color=g)](https://facebook.com/clickedtran.vn)
 [![TELEGRAM](https://img.shields.io/badge/ClickedTran-white?style=plastic&logo=telegram&logoColor=blue&label=Telegram&labelColor=white&color=0000FF&link)](https://t.me/clickedtran_vn)
 
-[![EMAIL](https://img.shields.io/badge/clickedwp%40gmail.com-white?style=plastic&logo=gmail&logoColor=%23EA4335&label=Email&labelColor=white&color=blue)](mailto:clickedwp@gmail.com)
+[![EMAIL](https://img.shields.io/badge/clickedwp%40gmail.com-white?style=plastic&logo=gmail&logoColor=%23EA4335&label=Email&labelColor=white&color=blue)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBBSVRctBdkQrZhHpnJFRGZTrljCXcWwnSwJzlHZLVjzJhVsMBdgptFvrTStnTDlvztSq)
 [![PAYPAL](https://img.shields.io/badge/Ph%C3%A1t%20Tr%E1%BA%A7n-black?style=plastic&logo=paypal&logoColor=%23003087&label=Paypal&labelColor=blue&color=red)](https://www.paypal.com/myaccount/transfer/homepage/)
 </th>
 </tr>

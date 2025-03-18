@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </td>
 <td align="center">
 
-![REAL NAME](https://img.shields.io/badge/Tran_***_Phat-red?style=plastic)
+![REAL NAME](https://img.shields.io/badge/Tran_****_Phat-red?style=plastic)
 </td>
 </tr>
 <tr>

@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 <tr>
 <th align='center' colspan='2'>
 
-[![DISCORD](https://img.shields.io/badge/ClickedTran_VN-white?style=plastic&logo=discord&logoColor=white&label=Discord&labelColor=blue&color=yellow)](https://discord.gg/MyS8rMhSh8)
-[![YOUTUBE](https://img.shields.io/badge/ClickedTran_VN-white?style=plastic&logo=youtube&logoColor=red&label=Youtube&labelColor=white&color=blue)](https://youtube.com/@clickedtran_vn)
+[![DISCORD](https://img.shields.io/badge/ClickedTran___VN-white?style=plastic&logo=discord&logoColor=white&label=Discord&labelColor=blue&color=yellow)](https://discord.gg/MyS8rMhSh8)
+[![YOUTUBE](https://img.shields.io/badge/ClickedTran__VN-white?style=plastic&logo=youtube&logoColor=red&label=Youtube&labelColor=white&color=blue)](https://youtube.com/@clickedtran_vn)
 
 [![FACEBOOK](https://img.shields.io/badge/Ph%C3%A1t_Tr%E1%BA%A7n-blue?style=plastic&logo=facebook&logoColor=white&label=Facebook&labelColor=blue&color=g)](https://facebook.com/clickedtran.vn)
 [![TELEGRAM](https://img.shields.io/badge/ClickedTran-white?style=plastic&logo=telegram&logoColor=blue&label=Telegram&labelColor=white&color=0000FF&link)](https://t.me/clickedtran_vn)
